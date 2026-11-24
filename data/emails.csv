@@ -1,0 +1,33 @@
+text,label
+"Hi team, the meeting agenda is attached for tomorrow.",safe
+"Your package has arrived. Thank you for shopping with us.",safe
+"Here are the notes from our project discussion.",safe
+"Please review the updated timetable before Friday.",safe
+"Your monthly statement is now available in the usual portal.",safe
+"Thanks for your help with the presentation.",safe
+"The school event begins at 9 AM on Saturday.",safe
+"Your library book is due next week.",safe
+"Please find the class notes attached.",safe
+"We have received your support request and will reply soon.",safe
+"Reminder: team practice is moved to 4 PM.",safe
+"Your appointment confirmation is ready.",safe
+"The newsletter for this month is attached.",safe
+"Can you share the final version of the report?",safe
+"Your order update is available in your account.",safe
+"Thanks for attending the workshop yesterday.",safe
+"Urgent! Verify your account password immediately at http://fake-login.example",phishing
+"Your account is suspended. Confirm your details now at http://secure-check.example",phishing
+"Payment failed! Login here to update your billing information.",phishing
+"Your mailbox is full. Verify your password to avoid closure.",phishing
+"Immediate action required: confirm your account at www.account-alert.example",phishing
+"Unusual activity detected. Sign in now to secure your account.",phishing
+"Invoice overdue. Open http://192.0.2.10/pay to avoid penalties.",phishing
+"Your prize is waiting. Submit your details immediately.",phishing
+"Password expires today. Verify your login at http://verify-user.example",phishing
+"Final warning: account suspended unless you confirm payment details.",phishing
+"Click www.update-access.example to restore your account immediately.",phishing
+"Security alert! Confirm your password to prevent account closure.",phishing
+"Your delivery is on hold. Pay a small fee at http://parcel-fee.example",phishing
+"Urgent invoice: review payment details using this unfamiliar link.",phishing
+"Confirm your identity now to unlock your account.",phishing
+"Your account needs verification. Login at http://customer-check.example",phishing
